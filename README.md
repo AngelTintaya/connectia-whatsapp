@@ -59,8 +59,8 @@ https://business.facebook.com/direct-support
 
 -- Add eng language: ?locale=en_US
 
-### Verificación de número pendiente
-## Video Tutorial: https://www.youtube.com/watch?v=VDlyGcHlGiw
+## Verificación de número pendiente
+### Video Tutorial: https://www.youtube.com/watch?v=VDlyGcHlGiw
 1. Check if phone number is not registered:
     - Go to Facebook for developers
     - Go to QuickStart (Inicio rápido)
@@ -99,3 +99,8 @@ https://business.facebook.com/direct-support
     - Click in Step 2: Send a Test Message
     - Click in Send Test Message
     - Click in Send
+
+## Going to life
+0. Remember to create a new message template for the new phone that was verified!
+1. Update URL for Privacy Policy (Will redirect after clicking to Go Live, otherwise it is in App Set Up -> Basic)
+2. Click to go Life
