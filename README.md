@@ -1,24 +1,50 @@
 # connectia-whatsapp
 
+## Web Pages:
 Facebook for developers:
 https://developers.facebook.com/
 
 Facebook business:
 https://business.facebook.com/
 
-Setting up Whatsapp Cloud API
-Tutorial: https://www.youtube.com/watch?v=q0ojEbdezFU&list=PLi9cSkiBrnxYU2Efug5P6-CAK4Iu5R1Rq
+## Tutorials
+General Tutorial for setting up Whatsapp Cloud API
+https://www.youtube.com/watch?v=NUos_GR2JuQ
 
-1. Create whatsapp business page on facebook
-2. Create a "Portafolio Comercial" in Facebook Business: Connectia Solutions
-2. Log in to Facebook for developers
-3. Go to My Apps
-4. Create App: Connectia Assistant
-5. Apps want to do: Select Others, it is for WhatsApp purpose
-6. App Type: Business
-7. Business Account (Portafolio Comercial): Select Connectia Solutions
-8. Create
-9. Go to whatsapp, click set up
+Multiple tutorials for setting up Whatsapp Cloud API
+https://www.youtube.com/watch?v=q0ojEbdezFU&list=PLi9cSkiBrnxYU2Efug5P6-CAK4Iu5R1Rq
+
+Verifying Phone Number
+https://www.youtube.com/watch?v=VDlyGcHlGiw
+
+### 1. Create Whatsapp Business Page on Facebook
+1.1. Create whatsapp business page on facebook
+
+### 2. Create a "Portafolio Comercial"
+2.1. Go to Facebook Business
+2.2. Create a "Portafolio Comercial": Connectia Solutions
+
+### 3. Create App
+3.1. Log in to Facebook for developers
+3.2. Go to My Apps
+3.3. Create App: Connectia Assistant
+3.4. Apps want to do: Select Others, it is for WhatsApp purpose
+3.5. App Type: Business
+3.6. Business Account (Portafolio Comercial): Select Connectia Solutions
+3.7. Click in Create
+3.8. Go to whatsapp, click set up
+    (We are going to be in our main Facebook for developer page now)
+
+### 4. Business verification
+4.1. Go to Facebook Business
+4.2. Click in Business Portfolio Info (Información del portafolio comercial)
+4.3. Edit Business Name, if needed
+4.4. Click in Business Verification Status -> View details (Will open another tab)
+4.5. Click in start verification
+4.6. Click in start
+4.7. Select Country
+4.8. Select Business Type: Private Enterprise
+4.9. To be continued ....!!!!!!!!!!!!!!!!!!!!!!
 
 -- Save a Whatsapp display name: Note, double check your legal businesss name in your "Portafolio Comercial" profile
 -- Register phone:
@@ -34,7 +60,7 @@ https://business.facebook.com/direct-support
 -- Add eng language: ?locale=en_US
 
 ### Verificación de número pendiente
-## Video: https://www.youtube.com/watch?v=VDlyGcHlGiw
+## Video Tutorial: https://www.youtube.com/watch?v=VDlyGcHlGiw
 1. Check if phone number is not registered:
     - Go to Facebook for developers
     - Go to QuickStart (Inicio rápido)
